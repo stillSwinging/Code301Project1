@@ -1,9 +1,11 @@
 # Team Agreement
 ## Team Members: Martha Quintanilla-Ramirez, Vida Powell, Tanesha Brester, Sarah Teklemariam.
+
 ### Cooperation Plan
 - Every person on your team is an asset. This is your chance to discover the hidden strengths and areas for growth for each team member.
 - Describe at least:
 ### What are the key strengths of each person on the team?
+
   - Vida’s key strength is determination to finish this course! She is also comfortable and curious with mathematical algorithms.
   - Martha’s key strength is communication: what we need to do; as well as determination to complete the course. Martha feels more comfortable with her CSS abilities than other technical proficiencies though inline Bootstrap is challenging.
   - Tanesha’s key strength is spite-driven strength! She is also good with checking in with her team members and is receptive to feedback and open communication. Scheduling flexibility is also a component in her arsenal.
@@ -105,3 +107,5 @@ How often will you merge?
   - As needed.
 How will you communicate that it’s time to merge?
   - With open and honest communication via slack.
+
+  GO TEAM!
