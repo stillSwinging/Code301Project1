@@ -1,6 +1,6 @@
-# Code301Project1
-# Group Members: Martha, Vida, Tanesha, Sarah.
-## Cooperation Plan
+# Team Agreement
+## Team Members: Martha Quintanilla-Ramirez, Vida Powell, Tanesha Brester, Sarah Teklemariam.
+### Cooperation Plan
 - Every person on your team is an asset. This is your chance to discover the hidden strengths and areas for growth for each team member.
 - Describe at least:
 ### What are the key strengths of each person on the team?
