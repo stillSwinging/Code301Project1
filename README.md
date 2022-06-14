@@ -16,7 +16,7 @@
 - Combining the strengths mentioned above we will have the fortitude to face each difficulty, the ability to communicate where we can each best apply our efforts. Our team is uniquely positioned as half on the East coast and half on the West. This will allow us to split complexities between two different pair programming teams for improved daily efficiency.
 
 - In which professional competencies do you each want to develop greater strength?
-  - Vida, Martha, and Sarah would like to develop greater competency with core JS logic logic algorithms.  Tanesha would also like to develop this same competency but also gain a deeper understanding of overall application construction workflow and implementation.
+  - Vida, Martha, and Sarah would like to develop greater competency with core JS logic algorithms.  Tanesha would also like to develop this same competency but also gain a deeper understanding of overall application construction workflow and implementation.
 - Knowing that every person in your team needs to understand all aspects of the project, how do you plan to approach the day-to-day work?
 
   - Our plan is to openly communicate when we need help and be realistic in planning out our daily tasks. This includes being open to feedback, and holding each other accountable. Async communitcation in slack channel and daily check-ins.
@@ -101,11 +101,11 @@
 ### Will you be using a PR review workflow? If so, consider:
 ### How many people must review a PR?
   - See above; at least one other person must review a PR.
-Who merges PRs?
+- Who merges PRs?
   - See above: A team member who was NOT responsible for the ACP will review and merge the PR
-How often will you merge?
+- How often will you merge?
   - As needed.
-How will you communicate that it’s time to merge?
-  - With open and honest communication via slack.
+- How will you communicate that it’s time to merge?
+  - With open and honest communication via slack. Another good time to merge is when someone completes a user story.
 
   GO TEAM!
